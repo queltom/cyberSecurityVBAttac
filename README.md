@@ -8,20 +8,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [Project Overview](#-project-overview)
-- [Attack Goal](#-attack-goal)
-- [Spear Phishing Campaign](#-spear-phishing-campaign)
-- [Attack Architecture](#-attack-architecture)
-- [VBA Macro Features](#-vba-macro-features)
-- [Obfuscation Techniques](#-obfuscation-techniques)
-- [Infrastructure](#-infrastructure)
-- [Results](#-results)
-- [Authors](#-authors)
-
----
-
 ## 🎯 Project Overview
 
 This project represents a **complete simulation of a cyber attack** based on a malicious VBA macro embedded within an Excel document. The goal is to demonstrate how an attacker can exploit social engineering techniques and steganography to compromise a system and steal sensitive information.
